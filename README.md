@@ -92,7 +92,7 @@ Responses were evaluated using a standardized 1-5 scale across each dimension:
 
 ### Methodology Notes
 
-Most evaluations were conducted using responses collected via the Duck.ai platform between March 6-7, 2025, with Claude Haiku, Llama 3.3 70B, Mistral Small 3, GPT-4o mini, and o3-mini all receiving identical inputs through this platform. Gemini Pro 1.5 was evaluated separately using the same prompt via gemini.google.com. All responses were evaluated by Claude 3.7 Sonnet in normal thinking mode without extended reasoning enabled. The original complete model responses were preserved for verification purposes.
+Most evaluations were conducted using responses collected via the Duck.ai platform between March 6-7, 2025, with Claude Haiku, Llama 3.3 70B, Mistral Small 3, GPT-4o mini, and o3-mini all receiving identical inputs through this platform. Gemini Pro 1.5 was evaluated separately using the same prompt via [gemini.google.com](https://gemini.google.com). All responses were evaluated by Claude 3.7 Sonnet in normal thinking mode without extended reasoning enabled. The original complete model responses were preserved for verification purposes.
 
 ## Detailed Results
 
